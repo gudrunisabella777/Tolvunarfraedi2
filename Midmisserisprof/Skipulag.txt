@@ -1,1 +1,28 @@
+Heimaverkefni 1
+	Hlaðar
+	Tengdir listar
+Heimaverkefni 2
+	Biðraðir
+	Vaxtarhraði
+	Tímagreining
+Heimaverkefni 3
+	Reiknirit
+	Union-find
+Heimaverkefni 4
+	Spilaklasi
+	Valröðun
+	Röðun
+	Shell röðun
+
+
+Fyrirlestrar
+	2-Hlaðar og biðraðir
+	3-Hlaðar og -II- 2
+	4-Greining reiknirita 1
+	5-Greining reiknrita 2
+	6-Union-Find
+	7-Röðun-Valröðun
+	8-Innsetningaröðun-stokkun
+	9 Mergesort
+	10 Quicksort
 
